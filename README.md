@@ -33,5 +33,5 @@ Is the code in the main updated? We checked, we do not know.
 * [jungle_book.ipynb](https://github.com/margherita-lera/GalaxyClassifier/blob/main/jungle_book.ipynb) Test the accuracy of our networks (don't be too mean).
 * [model_optim_110.pt](https://github.com/margherita-lera/GalaxyClassifier/blob/main/model_optim_110.pt) The ultimate CNN model.
 * [scaletta.md](https://github.com/margherita-lera/GalaxyClassifier/blob/main/scaletta.md) Ordered list of things to take care of. We stopped updating it the second day. Possibly only the original author has ever glanced at it once.
-* [training.py](https://github.com/margherita-lera/GalaxyClassifier/blob/main/scaletta.md) Training script, to be used after Optuning.
+* [training.py](https://github.com/margherita-lera/GalaxyClassifier/blob/main/training.md) Training script, to be used after Optuning.
 * [zookeeper.py](https://github.com/margherita-lera/GalaxyClassifier/blob/main/zookeeper.py) Custom package with a couple of functions to run the code.
